@@ -472,7 +472,7 @@ export function NightshiftApp({
         </EuiFlexItem>
       </EuiFlexGroup>
 
-      <EuiSpacer size="m" />
+      <EuiSpacer size="l" />
 
       <div
         css={css`
